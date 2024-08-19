@@ -15,7 +15,7 @@ first  majer change I made was to replace the while loop with a for loop as for 
 I tested different functions in random and found random.random() was the fastest
 I added the boolian value (1 for true, 0 for false) to score when the value returned by random was under 0.25 which should be 1/4 times
 
-the best time I could get from python was 16 seconds for 1,000,000 attempts
+the best time I could get from python was 10 seconds for 1,000,000 attempts
 
 
 # The Second Attempt:
